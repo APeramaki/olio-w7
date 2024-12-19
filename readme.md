@@ -6,6 +6,6 @@ I did deviate from the original task some what by using custom `counterChanged` 
 
 ## Example execution
 
-![example execution](pics/image.png)
+![example execution](image.png)
 
 note: Files uploaded via guthub.com UI as done with someone elses computer.
